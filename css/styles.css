@@ -1,14 +1,10 @@
-body {
-  background-color: #F0F0F0  ;
+a:visited{
+  color: #00E0FF;
 }
 
-hr {
-  border-style: none;
-  border-top-style: dotted;
-  border-color: #145374;
-  border-width: 5px;
-  height: 0;
-  width: 5%;
+body {
+  background-color: #1B262C;
+  color: #FEFBF3;
 }
 
 h1{
@@ -17,4 +13,13 @@ h1{
 
 h3 {
   color: #71C9CE;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #316B83;
+  border-width: 5px;
+  height: 0;
+  width: 5%;
 }
